@@ -1,0 +1,18 @@
+.large-avatar {
+    border-radius: 50%;
+}
+
+.user-property {
+    display: flex;
+    flex-direction: row;
+}
+
+.property-label {
+    font-weight: bold;
+    font-size: medium;
+}
+
+.property-value {
+    font-weight: normal;
+    font-size: medium;
+}
